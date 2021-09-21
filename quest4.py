@@ -9,7 +9,7 @@ of all the elements of A and all the elements of B such
 class Solution:
     def Union(self, A, B):
         self = A.union(B)
-        return self;
+        return self
 
 def main():
     t = int(input())
