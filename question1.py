@@ -14,7 +14,7 @@ def utility():
     #Complete the syntax above
     
     #The line below prints the output
-    print(2*ans)
+    print(2*ans) 
 
 def main():
     t = int(input())
